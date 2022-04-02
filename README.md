@@ -1,4 +1,7 @@
 # reentrancy-hack-solidity
+
+> Inspired by OpenZeppelin
+
 This project want to study how the reentrancy exploit works and how to protect from it.
 
 
